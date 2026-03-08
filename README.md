@@ -4,12 +4,6 @@
 
 ---
 
-## 🛠 Tech Stack
-![Excel](https://img.icons8.com/color/48/microsoft-excel-2019.png)  
-**Microsoft Excel** — Pivot Tables · Data Cleaning · Dashboard Design · Slicers
-
----
-
 ## 🔄 Workflow
 
 ```
@@ -58,19 +52,9 @@ Data Collection → Data Cleaning → Data Processing → Pivot Tables → Dashb
 
 ---
 
-## 📄 Dashboard Preview
+## 📄 Dashboard
 
-![Online Store Dashboard](Dashboard.png)
-
----
-
-## 📝 Resume Bullet Points
-
-**Online Store Annual Sales Analysis | GitHub Self Project**  
-`Excel` `Pivot Tables` `Data Cleaning` `Dashboard Design` &nbsp;&nbsp;&nbsp; Jan 2026 – Feb 2026
-
-- Built an end-to-end Excel analytics dashboard for a retail store, processing 31,000+ transactions through a full data cleaning and transformation pipeline (null checks, deduplication, type normalization) and creating 6 pivot tables to surface trends across gender, age, geography, and sales channel.
-- Identified high-impact customer segments (women aged 30–49 in Maharashtra, Karnataka & Uttar Pradesh via Amazon/Flipkart/Myntra) driving ~80% of revenue, translating insights into targeted marketing recommendations to improve 2023 sales performance.
+![Online Store Dashboard](./Docs/Dashboard.png)
 
 ---
 
